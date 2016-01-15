@@ -41,8 +41,8 @@ $hover-buzz: true; /* Add */
 `pulse`와 `push` 파일이 `animtewithsass` 라이브러리와 중복되어 이름을 수정하였습니다.
 ```sass
   /* 기본 파일 */
-  @include hvr-pulse();
-  @include hvr-push();
+  @include pulse();
+  @include push();
 ```
 
 ```sass

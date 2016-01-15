@@ -1,4 +1,4 @@
-# Animate
+# Hover
 Sass를 위한 Hover Custom 자료입니다.<br>
 hover 라이브러리에서 Sass부분을 보완한 자료입니다.
 
